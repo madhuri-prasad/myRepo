@@ -1,1 +1,1 @@
-hi its my first file in git
+Hi its my first file in git
